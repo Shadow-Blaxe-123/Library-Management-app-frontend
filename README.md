@@ -1,4 +1,4 @@
-# Library Management App for Assignment-4
+# Library Management App
 
 This is a minimalist full-stack website to manage a library. Below is the live link.
 
